@@ -8,6 +8,7 @@ setup(
     description="collection of helpers to create airflow dags",
     author="Big Data Team at globo.com",
     author_email="tarsis@corp.globo.com",
+    url="https://github.com/tarsisazevedo/airflow-utils",
     license='MIT',
     install_requires=[
         "airflow",
